@@ -11,4 +11,4 @@ Alternatively, check out the `typst` extension for VS Code.
 
 Pull requests are welcome.
 
-[screenshot](docs/screenshot.png)
+![screenshot](screenshot.png)
